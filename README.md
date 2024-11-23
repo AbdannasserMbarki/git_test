@@ -1,1 +1,2 @@
 # MY FIRST OBJECT DETECTION AI TRAINING
+(project incomplete)
